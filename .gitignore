@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+evidence/
+*.wav
+*.mp4
+*.mov
+!examples/demo-source.mp4
+!examples/opening-candidate.mp4
+*.bin
+*.sqlite*
+.env*
