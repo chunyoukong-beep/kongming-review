@@ -1,0 +1,4 @@
+interface:
+  display_name: "孔明审片"
+  short_description: "基于画面和口播给出短视频编导修改意见，检查开头、剪辑、广告风险与后续拍摄"
+  default_prompt: "使用 $kongming-review 审这条视频，给出有原片依据、可直接复制的修改意见，1000字以内，有几条说几条。"
